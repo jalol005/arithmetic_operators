@@ -7,5 +7,8 @@ Find the sum of  'num_one' and 'num_two' then assign to 'variable_total'
 */
 void main() {
   //write your code here
-  
+  int num_one =5;
+  int num_two =4;
+  int answer=num_two+num_one;
+  print(answer);
 }
